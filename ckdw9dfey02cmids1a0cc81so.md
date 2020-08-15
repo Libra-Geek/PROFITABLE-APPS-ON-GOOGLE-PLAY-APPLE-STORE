@@ -26,7 +26,7 @@ Before you can clear the error, you need to understand the nature of the error. 
 This may seem vague or outdated as many programmers do not see the relevance. However, it has been proved that understanding your input data, performing random tests with different dataset categories as well as documenting each step as you go is an extremely effective way to understand your input data as well as your codes. Do not write your final code yet, keep trying and testing the process with more data and it is assured that your final code won't suck as you might imagine it would.
 
 
--**WRITE PSEUDOCODE(S)**
+- **WRITE PSEUDOCODE(S)**
 
 Every programmer might be able to relate to this but its relevance and effectiveness cannot be emphasized enough. 
 
