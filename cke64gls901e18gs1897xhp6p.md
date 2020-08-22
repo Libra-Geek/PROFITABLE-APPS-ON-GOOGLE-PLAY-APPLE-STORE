@@ -33,11 +33,11 @@ It is also referred to as an application program that understands natural langua
 
 For a start, we need to import three(3) important modules into our workspace: 
 
-a. *pyttsx3*: A basic library we need to import into our workspace is the *pyttsx3* module. **pyttsx3 is a text-to-speech conversion library in Python.** You can read more about this library [here](https://pypi.org/project/pyttsx3/).
+a. `pyttsx3`: A basic library we need to import into our workspace is the *pyttsx3* module. **pyttsx3 is a text-to-speech conversion library in Python.** You can read more about this library [here](https://pypi.org/project/pyttsx3/).
 
-b. *datetime* function: The datetime module supplies classes for manipulating dates and times. The documentation can be found [right here](https://docs.python.org/3/library/datetime.html).  
+b. `datetime` function: The datetime module supplies classes for manipulating dates and times. The documentation can be found [right here](https://docs.python.org/3/library/datetime.html).  
 
-c. **SpeechRecognition**: This is a library for performing speech recognition, with support for several engines and APIs, online and offline. Read more [here](https://pypi.org/project/SpeechRecognition/) 
+c. `SpeechRecognition`: This is a library for performing speech recognition, with support for several engines and APIs, online and offline. Read more [here](https://pypi.org/project/SpeechRecognition/) 
 
 
 Before you import these modules, you must have it installed on your computer. There are two ways to install it:
