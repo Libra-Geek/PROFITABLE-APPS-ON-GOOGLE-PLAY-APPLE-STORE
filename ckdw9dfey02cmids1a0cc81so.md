@@ -38,7 +38,7 @@ Pseudocode is an informal high-level description of the operating principle of a
 
 After doing all these, what do you do next?
 
-Find out in the next part of this article which comes out tomorrow!
+Find out in the next part of this article which comes out SOON!
 
 
 STAY TUNED AND KEEP CODING!!
